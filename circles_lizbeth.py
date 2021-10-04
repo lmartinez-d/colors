@@ -1,7 +1,7 @@
 #initialization
 import turtle
 import random
-lizbeth = turtle.Turtle
+lizbeth = turtle.Turtle()
 
 #functions
 def randomDot():
